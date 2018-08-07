@@ -24,7 +24,7 @@ import java.io.IOException;
 
 public class MainActivity extends AppCompatActivity {
 
-    String jokeFromAPI;
+    static String jokeFromAPI;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
